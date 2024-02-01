@@ -183,7 +183,7 @@ p {
 	width: 50%;
 	height: 100%;
 	text-align: center;
-	padding: 100px 90px;
+	padding: 5% 25px;
 	overflow: hidden;
 }
 
@@ -297,5 +297,6 @@ p {
 .contact-info {
 	border-bottom: 3px solid #fff;
 }
+
 /*** Showcase ***/
 /*** Showcase ***/
