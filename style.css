@@ -206,7 +206,7 @@ p {
 	padding: 15px;
 }
 
-/*** About page ***/
+/*** About Page ***/
 
 .about-info .info-left {
 	float: left;
@@ -267,6 +267,35 @@ p {
 	border-radius: 50%;
 }
 
-/*** Showcase ***/
+/*** Contact Page ***/
+
+.contact-form h1 {
+	font-size: 60px;
+	margin-top: 30px;
+}
+
+.contact-form .form-group {
+	margin-bottom: 20px;
+}
+
+.contact-form .form-group label {
+	display: block;
+	margin-bottom: 5px;
+}
+
+.contact-form .form-group input,
+.contact-form .form-group textarea {
+	width: 100%;
+	padding: 10px;
+	border: 1px solid #ddd;
+}
+
+.contact-form .form-group textarea {
+	min-height: 200px;
+}
+
+.contact-info {
+	border-bottom: 3px solid #fff;
+}
 /*** Showcase ***/
 /*** Showcase ***/
